@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu_Nombre.unity
+    guid: 4ca762ca9f2d086489f6660923ab321f
+  - enabled: 0
+    path: Assets/Scenes/Menu_SelectAvatar.unity
+    guid: 1ff7af8f3f57a6c4ab4d1dadf80fc10a
+  - enabled: 1
+    path: Assets/Scenes/Menu_Main.unity
+    guid: f70f9bd623f88fe4eaf5241d08896101
+  - enabled: 1
+    path: Assets/Scenes/Menu_Main 1.unity
+    guid: 6803a386b282f7e4f9736bfcca1692e1
+  - enabled: 1
+    path: Assets/Scenes/Rasgos 1.unity
+    guid: c962cd75fdd958d45b59897a0b70945a
+  - enabled: 1
+    path: Assets/Scenes/Genero.unity
+    guid: 277e19b7c66c9274a9b3527a67806ea9
+  - enabled: 1
+    path: Assets/Scenes/Ropa.unity
+    guid: 9bc4817719b82c74fa193a900a07cc17
+  m_configObjects: {}
